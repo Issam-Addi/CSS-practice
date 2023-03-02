@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(255, 254, 228);
+    position: relative;
+    margin: 0;
+}
+
+article {
+    background-color: dimgray;
+    margin:5px;
+}
+
+article.top {
+    background-color: rgb(255, 254, 228);
+    position: absolute;
+    height: 100px;
+    overflow: auto;
+}
+
+main {
+    display: flex;
+    align-items: center;
+}
+
+.verline {
+    position: absolute;
+    border-right: 5px solid black;
+    height: 100%;
+    top: 0;
+    right: 0;
+}

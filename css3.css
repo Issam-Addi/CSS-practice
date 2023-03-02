@@ -1,0 +1,36 @@
+h2 {
+    text-decoration: underline;
+}
+
+hr {
+    width: 500px;
+    margin-left: 0;
+}
+
+span {
+    font-weight: bold;
+}
+
+.marg {
+    margin-bottom: 15px;
+}
+
+a.ora{
+    color: orange;
+}
+
+div.colorB, li.colorB {
+    color: blue;
+}
+
+a.backg {
+    background-color: yellow;
+}
+
+li .colorR {
+    color: red;
+}
+
+ul.none {
+    list-style: none;
+}
