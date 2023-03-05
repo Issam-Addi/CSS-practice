@@ -20,7 +20,6 @@ article {
 }
 
 .verline {
-    position: absolute;
     border-right: 5px solid black;
     height: 60em;
     top: 0;
