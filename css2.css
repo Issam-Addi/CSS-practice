@@ -13,7 +13,6 @@ article {
 .top {
     height: 100px;
     overflow: auto;
-    background-color: #fcffed;
     display: block;
     border-bottom: 3px solid black;
     border-top: 3px solid black;
