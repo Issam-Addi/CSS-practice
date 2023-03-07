@@ -11,17 +11,10 @@ article {
 }
 
 .top {
-    height: 100px;
+    height: 75px;
     overflow: auto;
     display: block;
     border-bottom: 3px solid black;
     border-top: 3px solid black;
     margin: 5px;
-}
-
-.verline {
-    border-right: 5px solid black;
-    height: 60em;
-    top: 0;
-    right: 0;
 }
